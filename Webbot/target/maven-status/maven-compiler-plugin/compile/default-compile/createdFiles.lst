@@ -1,0 +1,7 @@
+com\webbot\controller\Bot_controller.class
+com\webbot\model\Url.class
+com\webbot\repository\Content_repo.class
+com\webbot\model\Link.class
+com\webbot\model\Media.class
+com\webbot\demo\WebbotApplication.class
+com\webbot\model\Content.class
